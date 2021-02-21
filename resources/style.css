@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: "Georgia";
+}
+
+h1,
+h2,
+p {
+  font-family: "Helvetica";
+}
+
+header {
+  text-align: center;
+}
+
+main {
+  padding: 40px;
+}
+
+footer p {
+  text-align: center;
+}
+
+footer a.external-link {
+  color: bisque;
+}
